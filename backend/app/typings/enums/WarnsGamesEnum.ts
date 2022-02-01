@@ -1,0 +1,3 @@
+export enum WarnsGamesEnum {
+    PHOTOSENSITIVE_EPILEPSY='PHOTOSENSITIVE_EPILEPSY'
+}
